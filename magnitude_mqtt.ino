@@ -12,11 +12,11 @@
 #define AIO_SERVERPORT 1883
 
 #define AIO_USERNAME "REI_owo"
-#define AIO_KEY "aio_iQLK515MNSiHMdXNIGPcDlw6zzjR"
+#define AIO_KEY "************"
 
 // Wi-Fi credentials
-const char* ssid="Chan_2.4G";
-const char* password="0125717025";
+const char* ssid="******";
+const char* password="*******";
 
 // Create MPU9250 object
 MPU9250_WE myMPU9250 = MPU9250_WE(MPU9250_ADDR);
